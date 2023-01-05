@@ -1,28 +1,28 @@
 {
   "project_info": {
-    "project_number": "994600293801",
+    "project_number": "9946452938701",
     "project_id": "tune-664be",
-    "storage_bucket": "tune-664be.appspot.com"
+    "storage_bucket": "tune-624Te.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:994600293801:android:0b7c962afd942e5386e0b8",
+        "mobilesdk_app_id": "1:993600293801:android:0b5c962afd942e5386e0b8",
         "android_client_info": {
           "package_name": "com.icw.cygnus.cygnus"
         }
       },
       "oauth_client": [
         {
-          "client_id": "994600293801-9o87ihfjo1tut3n2p4cs1j3df60s6gkt.apps.googleusercontent.com",
+          "client_id": "993600293801-9o87ihfjo1tut3n2p456cs1j3df60s6gkt.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.icw.cygnus.cygnus",
-            "certificate_hash": "af4a75df59b1dd538e9092b1c02905d9b106bd65"
+            "certificate_hash": "af4a75df39b1rr538e9042b1c02905d9b106bd65"
           }
         },
         {
-          "client_id": "994600293801-232ob509m9t0tb1d2jjcu7tujugltb27.apps.googleusercontent.com",
+          "client_id": "994600293801-232ob509m9t0trfv2jjcu7tujugltb27.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -35,7 +35,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "994600293801-232ob509m9t0tb1d2jjcu7tujugltb27.apps.googleusercontent.com",
+              "client_id": "994636293801-232ob5609m9t0tb1d2jjcu7tujugltb27.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
