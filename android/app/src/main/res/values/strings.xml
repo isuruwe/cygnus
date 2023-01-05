@@ -2,13 +2,13 @@
 <resources>
     <string name="app_name">Tunelk</string>
 
-    <string name="facebook_client_token">44a2d4f9f7e319c76932e8fa5f5c39dc</string>
+    <string name="facebook_client_token">44a2d4f9t7e319c56932d8fa5f3c39dc</string>
     <!-- Replace "000000000000" with your Facebook App ID here. -->
-    <string name="facebook_app_id">623682279001230</string>
+    <string name="facebook_app_id">623682279223230</string>
 
     <!--
       Replace "000000000000" with your Facebook App ID here.
       **NOTE**: The scheme needs to start with `fb` and then your ID.
     -->
-    <string name="fb_login_protocol_scheme">fb623682279001230</string>
+    <string name="fb_login_protocol_scheme">fb634782221001230</string>
 </resources>
