@@ -60,11 +60,7 @@ late FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin;
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
-    // options: const FirebaseOptions(
-    //   apiKey: 'AIzaSyArbLdi7I97q91NPRMmcSq34qCBwPa5Wjg',
-    //   appId: '1:994600293801:android:0b7c962afd942e5386e0b8',
-    //   messagingSenderId: '994600293801',
-    //   projectId: 'tune-664be',
+   
     // ),
   );
   FirebaseAuth auth = FirebaseAuth.instance;
